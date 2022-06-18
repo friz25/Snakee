@@ -1,0 +1,2 @@
+# Snakee
+🐍 simple snakee game
